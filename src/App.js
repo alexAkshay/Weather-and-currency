@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Time/>
       <Weather/>
-HIIII
+"Hiiii"
     </div>
   );
 }
