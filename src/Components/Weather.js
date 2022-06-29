@@ -1,5 +1,6 @@
 import React,{useState} from 'react'
 import axios  from 'axios';
+import './Component.css'
 
 
 export default function Weather() {
@@ -65,6 +66,7 @@ setSeedetails(false)
  </div>  : null
     }  </div>
 : null} 
+
             </div>
 
   )
